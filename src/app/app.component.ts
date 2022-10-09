@@ -103,7 +103,7 @@ export class AppComponent implements OnInit {
             },
             pan: {
               enabled: true,    // Enable panning
-              mode: 'x',        // Allow panning in the x direction
+              mode: 'xy',        // Allow panning in the x direction
             }
           }
         },
